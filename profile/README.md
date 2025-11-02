@@ -1,5 +1,5 @@
 ## Open Apps from Pattern Automation
-<img alt="PatternAutomation_Logo.JPG" src="https://github.com/PatternAutomation/.github/blob/main/images/PatternAutomation_Logo.JPG?raw=true" data-hpc="true" class="Box-sc-62in7e-0 eLrlvS">
+<img alt="PatternAutomation_Logo.JPG" src="https://github.com/PATTERN-AUTOMATION-LAB/.github/blob/main/image/Pattern-Automation-Logo.jpeg" data-hpc="true" class="Box-sc-62in7e-0 eLrlvS">
 
 
 <h1 align="center">Pattern Automation</h1>
