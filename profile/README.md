@@ -10,6 +10,10 @@ Welcome to Open Apps from Pattern Automation.
 
 We are a passionate team that believes in providing modern AI infrastructure tools and solutions, sharing them as open source to promote their development and adoption through the wider community.
 
+Our Manifesto is "Less routine more freedom"
+
+Check our Super Agent on NeuroAI on patternautomatiion.io/neuro-ai
+
 
 
 
